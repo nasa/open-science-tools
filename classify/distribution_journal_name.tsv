@@ -1,0 +1,407 @@
+Journal Name	APD	ESD	HPD	PSD	BPS	STMD	SOMD	ESDMD	ARD	OTH
+Physical Review D	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Monthly Notices of the Royal Astronomical Society: Letters	0.6666666666666666	0.0	0.16666666666666666	0.16666666666666666	0.0	0.0	0.0	0.0	0.0	0.0
+The Astronomical Journal	0.9130434782608695	0.0	0.0	0.08695652173913043	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Geophysical Research: Atmospheres	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+The Astrophysical Journal	0.6380597014925373	0.0037313432835820895	0.291044776119403	0.055970149253731345	0.0	0.011194029850746268	0.0	0.0	0.0	0.0
+The Planetary Science Journal	0.061224489795918366	0.0	0.04081632653061224	0.8775510204081632	0.0	0.02040816326530612	0.0	0.0	0.0	0.0
+The Astrophysical Journal Letters	0.6	0.0	0.2833333333333333	0.11666666666666667	0.0	0.0	0.0	0.0	0.0	0.0
+Composites Part A: Applied Science and Manufacturing	0.0	0.0	0.0	0.0	0.0	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0
+Astronomy &amp; Astrophysics	0.78	0.0	0.1	0.12	0.0	0.0	0.0	0.0	0.0	0.0
+Proceedings of the National Academy of Sciences	0.0	0.375	0.0	0.625	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Geophysical Research: Machine Learning and Computation	0.3333333333333333	0.0	0.0	0.0	0.0	0.6666666666666666	0.0	0.0	0.0	0.0
+Artificial Intelligence for the Earth Systems	0.0	0.8	0.0	0.0	0.0	0.2	0.0	0.0	0.0	0.0
+Applied Physics Letters	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0
+The Journal of Physical Chemistry C	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0
+Physics of Plasmas	0.09090909090909091	0.0	0.6363636363636364	0.0	0.0	0.2727272727272727	0.0	0.0	0.0	0.0
+Acta Astronautica	0.0	0.0	0.08333333333333333	0.16666666666666666	0.0	0.5833333333333334	0.0	0.16666666666666666	0.0	0.0
+Journal of Sleep Research	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Geophysical Research Letters	0.011904761904761904	0.35714285714285715	0.5119047619047619	0.11904761904761904	0.0	0.0	0.0	0.0	0.0	0.0
+Methods in Ecology and Evolution	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Geophysical Journal International	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+Climate Dynamics	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Geophysical Research: Space Physics	0.02631578947368421	0.0	0.8157894736842105	0.15789473684210525	0.0	0.0	0.0	0.0	0.0	0.0
+ACS Earth and Space Chemistry	0.0	0.4	0.0	0.6	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Adaptive Control and Signal Processing	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Scientific Data	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Geoscientific Model Development	0.0	0.8571428571428571	0.0	0.0	0.0	0.0	0.0	0.0	0.14285714285714285	0.0
+Additive Manufacturing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Geophysical Research: Oceans	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Space Weather and Space Climate	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Research Notes of the AAS	0.4	0.0	0.1	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+ACS Energy Letters	0.0	0.0	0.0	0.0	0.0	0.3333333333333333	0.0	0.0	0.6666666666666666	0.0
+Solar Physics	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Remote Sensing of Environment	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Aircraft	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Materials Research and Technology	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Quantitative Spectroscopy and Radiative Transfer	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Field Robotics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Alzheimer's &amp; Dementia	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+PLOS ONE	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0
+The Astrophysical Journal Supplement Series	0.42857142857142855	0.07142857142857142	0.42857142857142855	0.07142857142857142	0.0	0.0	0.0	0.0	0.0	0.0
+Space Weather	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Water Resources Research	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nature Communications	0.0	0.3333333333333333	0.06666666666666667	0.4	0.06666666666666667	0.06666666666666667	0.06666666666666667	0.0	0.0	0.0
+Trends in Ecology &amp; Evolution	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Heat and Mass Transfer	0.0	0.0	0.0	0.0	0.4444444444444444	0.4444444444444444	0.0	0.0	0.1111111111111111	0.0
+Advances in Space Research	0.2	0.1	0.2	0.3	0.0	0.2	0.0	0.0	0.0	0.0
+Engineering with Computers	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+American Journal of Human Biology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Earth System Science Data	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Monthly Notices of the Royal Astronomical Society	0.8482142857142857	0.0	0.05357142857142857	0.09821428571428571	0.0	0.0	0.0	0.0	0.0	0.0
+The Cryosphere	0.0	0.8947368421052632	0.0	0.10526315789473684	0.0	0.0	0.0	0.0	0.0	0.0
+Applied Optics	0.2857142857142857	0.5714285714285714	0.0	0.0	0.0	0.0	0.0	0.0	0.14285714285714285	0.0
+International Journal of Molecular Sciences	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0
+Environmental Science &amp; Technology	0.0	0.875	0.0	0.125	0.0	0.0	0.0	0.0	0.0	0.0
+Microbiology Spectrum	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Advanced Functional Materials	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Cancers	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Environmental Research Letters	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Advanced Intelligent Systems	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Molecular Evolution	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of the Atmospheric Sciences	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RAS Techniques and Instruments	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Sensors Journal	0.0	0.0	0.3333333333333333	0.0	0.3333333333333333	0.3333333333333333	0.0	0.0	0.0	0.0
+Geochimica et Cosmochimica Acta	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Space Science Reviews	0.1	0.0	0.5	0.4	0.0	0.0	0.0	0.0	0.0	0.0
+Geoscientific Instrumentation, Methods and Data Systems	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Rapid Communications in Mass Spectrometry	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Open Journal of Engineering in Medicine and Biology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+IEEE Transactions on Applied Superconductivity	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Optics Express	0.2222222222222222	0.5555555555555556	0.0	0.0	0.0	0.2222222222222222	0.0	0.0	0.0	0.0
+npj Microgravity	0.0	0.0	0.0	0.0	0.6	0.0	0.2	0.2	0.0	0.0
+PLOS Genetics	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Journal of Spacecraft and Rockets	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Ecosphere	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Applied and Environmental Microbiology	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0
+Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Geophysical Research: Solid Earth	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Environmental Microbiology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Global Environmental Change	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+STAR Protocols	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+npj Climate and Atmospheric Science	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Sol-Gel Science and Technology	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Aerospace Science and Technology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Computer Methods in Applied Mechanics and Engineering	0.0	0.0	0.0	0.0	0.0	0.3333333333333333	0.0	0.0	0.6666666666666666	0.0
+International Journal of Fatigue	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Tree Physiology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Communications Biology	0.0	0.3333333333333333	0.0	0.0	0.3333333333333333	0.0	0.3333333333333333	0.0	0.0	0.0
+Journal of Computing and Information Science in Engineering	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ACS Nano	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+AIChE Journal	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Physical Review A	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0
+Nature Astronomy	0.14285714285714285	0.0	0.0	0.8571428571428571	0.0	0.0	0.0	0.0	0.0	0.0
+Nanomaterials	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Physical Review Research	0.0	0.0	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0	0.0	0.0	0.0
+Ecology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Open Research Europe	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Physical Review Letters	0.6666666666666666	0.0	0.25	0.0	0.0	0.08333333333333333	0.0	0.0	0.0	0.0
+Atmospheric Chemistry and Physics	0.0	0.95	0.05	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Progress in Oceanography	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Scripta Materialia	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Vacuum Science &amp; Technology B	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Computers in Biology and Medicine	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Life Sciences in Space Research	0.0	0.0	0.0	0.16666666666666666	0.16666666666666666	0.16666666666666666	0.0	0.5	0.0	0.0
+Journal of Guidance, Control, and Dynamics	0.0	0.0	0.0	0.0	0.0	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0
+Computer-Aided Civil and Infrastructure Engineering	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Geodesy	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Physical Review C	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Earth's Future	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Communications on Applied Mathematics and Computation	0.75	0.0	0.0	0.0	0.0	0.25	0.0	0.0	0.0	0.0
+Neurocomputing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+The Journal of the Astronautical Sciences	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0
+Microorganisms	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Physical Review Materials	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Geophysical Research: Planets	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+mBio	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nano Letters	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Air Transportation	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of the Optical Society of America B	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+The Journal of Physical Chemistry B	0.0	0.0	0.0	0.3333333333333333	0.3333333333333333	0.3333333333333333	0.0	0.0	0.0	0.0
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Permafrost and Periglacial Processes	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Icarus	0.0	0.0	0.0	0.9	0.0	0.1	0.0	0.0	0.0	0.0
+Scientific Reports	0.0	0.2	0.0	0.3	0.2	0.1	0.1	0.1	0.0	0.0
+Ecological Modelling	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Applied Materials Today	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Meteoritics &amp; Planetary Science	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ACS Central Science	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Marine Biology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Chemical Information and Modeling	0.0	0.75	0.0	0.0	0.0	0.25	0.0	0.0	0.0	0.0
+Journal of Aerospace Information Systems	0.0	0.0	0.0	0.0	0.0	0.3333333333333333	0.0	0.0	0.6666666666666666	0.0
+ACS ES&amp;T Air	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Agricultural Water Management	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Applied Earth Observation and Geoinformation	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Materials Science and Engineering: A	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Communications in Nonlinear Science and Numerical Simulation	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Geochemistry, Geophysics, Geosystems	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Wildland Fire	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Frontiers in Astronomy and Space Sciences	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+PLOS Biology	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Maps	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Health &amp; Place	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+The International Journal of Robotics Research	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Discrete &amp; Computational Geometry	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Nature Geoscience	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+New Phytologist	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Groundwater for Sustainable Development	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Transport in Porous Media	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Temperature	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Experimental Physiology	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0
+Transportation Research Record: Journal of the Transportation Research Board	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Science of The Total Environment	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Terramechanics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Remote Sensing Letters	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Climatology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Multiphase Flow	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Limnology and Oceanography: Methods	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Cell Research	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+South East Asia Research	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Microbiology and Molecular Biology Reviews	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Geoscience and Remote Sensing	0.0	0.8571428571428571	0.14285714285714285	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ELECTROPHORESIS	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+PNAS Nexus	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Combustion Theory and Modelling	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Journal of Physics: Energy	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Fire	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ACS Applied Materials &amp; Interfaces	0.0	0.0	0.0	0.2	0.0	0.6	0.0	0.0	0.2	0.0
+PLOS Computational Biology	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Earth and Planetary Science Letters	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Earth and Space Science	0.0	0.5	0.3333333333333333	0.16666666666666666	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Climate	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+GIScience &amp; Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+AGU Advances	0.0	0.2	0.8	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Photonics Research	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Nature Climate Change	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Biogeosciences	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Minerals	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Environmental Science: Atmospheres	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+The Journal of Physical Chemistry A	0.6666666666666666	0.3333333333333333	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Atmospheric Measurement Techniques	0.0	0.9230769230769231	0.0	0.0	0.0	0.07692307692307693	0.0	0.0	0.0	0.0
+Journal of Thermophysics and Heat Transfer	0.0	0.0	0.0	0.25	0.0	0.75	0.0	0.0	0.0	0.0
+Human Movement Science	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Journal of Molecular Biology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+SIAM/ASA Journal on Uncertainty Quantification	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Geoscience and Remote Sensing Letters	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fire Safety Journal	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Journal of Fluid Mechanics	0.0	0.0	0.25	0.0	0.0	0.25	0.0	0.0	0.5	0.0
+Sustainable Cities and Society	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Global Change Biology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Spectrochimica Acta Part B: Atomic Spectroscopy	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Communications Earth &amp; Environment	0.0	0.6666666666666666	0.3333333333333333	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Monthly Weather Review	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Atmospheric and Solar-Terrestrial Physics	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Hydrological Processes	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Wireless Communications	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Geophysical Research: Earth Surface	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+AEU - International Journal of Electronics and Communications	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Experimental Thermal and Fluid Science	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+GeoHealth	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Publications of the Astronomical Society of the Pacific	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Mechanical Design	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0
+Journal of Glaciology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of the American Ceramic Society	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0
+Journal of Geophysical Research: Biogeosciences	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nuclear Technology	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+AIAA Journal	0.0	0.0	0.0	0.0	0.0	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0
+Journal of Advances in Modeling Earth Systems	0.0	0.75	0.25	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Transportation Research Part C: Emerging Technologies	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Classical and Quantum Gravity	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Composites Part B: Engineering	0.0	0.0	0.0	0.0	0.0	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0
+Geoscience Frontiers	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+iScience	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+IEEE Robotics and Automation Letters	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Environmental Research: Climate	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Chem	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nature Electronics	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Journal of Electric Propulsion	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Global Biogeochemical Cycles	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Physical Oceanography	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Computer Methods in Biomechanics and Biomedical Engineering	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+WIREs Computational Molecular Science	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Celestial Mechanics and Dynamical Astronomy	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0
+Publications of the Astronomical Society of Japan	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+Software Testing, Verification and Reliability	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Microbiome	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ACS Photonics	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0
+Plant Physiology	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Journal of Applied Physics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Drones	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Robotics	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+IEEE Access	0.0	0.0	0.0	0.0	0.0	0.0	0.3333333333333333	0.0	0.6666666666666666	0.0
+Soft Matter	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Groundwater	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Earth, Planets and Space	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Automatic Control	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0
+Experimental Brain Research	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Atmospheric Environment	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Nuclear Science	0.0	0.0	0.0	0.6666666666666666	0.0	0.3333333333333333	0.0	0.0	0.0	0.0
+The ISME Journal	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+Science of Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Robotics	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0
+Geoscience Data Journal	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Thermochimica Acta	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Organizational Psychology Review	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Physical Review Fluids	0.0	0.2	0.2	0.0	0.0	0.0	0.2	0.0	0.4	0.0
+Journal of Propulsion and Power	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Physical Review B	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+CEAS Space Journal	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+International Journal of Systems Science	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Quarterly Journal of the Royal Meteorological Society	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Pharmaceutical Analysis	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+FEMS Microbiology Ecology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Metals	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Electrostatics	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0
+Galaxies	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Human Factors: The Journal of the Human Factors and Ergonomics Society	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Physical Review E	0.0	0.0	0.6666666666666666	0.3333333333333333	0.0	0.0	0.0	0.0	0.0	0.0
+Chemosphere	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Plasma Physics	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+BioScience	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Environmental Microbiology Reports	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Bone	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Journal of Computational Physics	0.0	0.0	0.0	0.0	0.0	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0
+BMC Biology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Boundary-Layer Meteorology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Chemical Theory and Computation	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Control Systems Letters	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of The Electrochemical Society	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Geoscience Letters	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Frontiers in Human Neuroscience	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+ISPRS Journal of Photogrammetry and Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of the American Society for Mass Spectrometry	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Advanced Materials	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Marine Systems	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Remote Sensing Applications: Society and Environment	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Theoretical Biology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nanoscale	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Photosynthesis Research	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Structural and Multidisciplinary Optimization	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Limnology and Oceanography	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Scientific Drilling	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Talanta	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Astronomische Nachrichten	0.6666666666666666	0.0	0.0	0.3333333333333333	0.0	0.0	0.0	0.0	0.0	0.0
+European Journal of Human Genetics	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+BMJ Public Health	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Advanced Materials Interfaces	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Optical Materials Express	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Deep Sea Research Part II: Topical Studies in Oceanography	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Protein Science	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Optimization and Engineering	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Optics Letters	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Advanced Science	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Journal of Heterocyclic Chemistry	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Aerosol Research	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Computers &amp; Geosciences	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+European Journal of Mineralogy	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+The Journal of Physical Chemistry Letters	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Crystal Growth &amp; Design	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Ecology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Earth Surface Processes and Landforms	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Micro and Nano Systems Letters	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Proceedings of the Combustion Institute	0.0	0.0	0.0	0.0	0.3333333333333333	0.3333333333333333	0.3333333333333333	0.0	0.0	0.0
+Ecology and Evolution	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0
+Annals of Biomedical Engineering	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+World Development	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Review of Scientific Instruments	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0
+Marine Pollution Bulletin	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Langmuir	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0
+Analytical Chemistry	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Composites Science and Technology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+The Journal of Chemical Physics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Nature Ecology &amp; Evolution	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+JACS Au	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Turbulence	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Biological Chemistry	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Mechanisms and Robotics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ASME Journal of Heat and Mass Transfer	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Energy &amp; Environmental Science	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Movement Ecology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Wind Energy	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Marine Mammal Science	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RNA Biology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Hydrology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Information Fusion	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Cryogenics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Frontiers in Geochemistry	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Annual Reviews in Control	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Molecular Biology and Evolution	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nanophotonics	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0
+International Journal of Radiation Oncology*Biology*Physics	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Chaos: An Interdisciplinary Journal of Nonlinear Science	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Bulletin of Volcanology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+City and Environment Interactions	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Weather and Forecasting	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Low Temperature Physics	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Biology Direct	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Environmental Science &amp; Technology Letters	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Acta Materialia	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0
+IEEE Transactions on Vehicular Technology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+ACS Applied Engineering Materials	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Behavioural Brain Research	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Computers and Electronics in Agriculture	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Discover Life	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Matrix Biology Plus	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ICES Journal of Marine Science	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Experimental Techniques	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+SoftwareX	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Physica D: Nonlinear Phenomena	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Proteins: Structure, Function, and Bioinformatics	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Plasma Sources Science and Technology	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Seismica	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Frontiers in Plant Science	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Vadose Zone Journal	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Atmospheric Research	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Geoscience Communication	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Molecular Microbiology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ISPRS Open Journal of Photogrammetry and Remote Sensing	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Applied Thermal Engineering	0.0	0.0	0.0	0.0	0.3333333333333333	0.6666666666666666	0.0	0.0	0.0	0.0
+Planetary and Space Science	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Radio Science	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Chemical Research in Toxicology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Journal of Radiological Protection	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Atmosphere	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Advances in Engineering Software	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Ornithology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Environmental Chemical Engineering	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Computational Geosciences	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+International Journal of Human–Computer Interaction	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+The Journal of the Acoustical Society of America	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Evolution Letters	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Forestry	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Reviews in Fish Biology and Fisheries	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Macromolecules	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Vibration and Acoustics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Modeling Earth Systems and Environment	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Forest Policy and Economics	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Journal of Hydrology: Regional Studies	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Journal of Photovoltaics	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Polymers	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Agricultural and Forest Meteorology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Superconductor Science and Technology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Atmospheric and Oceanic Technology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Singapore Journal of Tropical Geography	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Remote Sensing in Ecology and Conservation	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Transactions on Neural Networks and Learning Systems	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+PeerJ	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Marine Geology	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Biofilm	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Journal of the American Chemical Society	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+The Journal of Physiology	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Environmental Research: Ecology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Microbiology Resource Announcements	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Journal of the Optical Society of America A	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Landscape Ecology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Earth System Dynamics	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Life	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Journal of Emerging and Selected Topics in Power Electronics	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Journal of Hydrometeorology	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Genome Biology and Evolution	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Citizen Science: Theory and Practice	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+AIP Advances	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Solid Earth	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Shock Waves	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+IEEE Journal of Radio Frequency Identification	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Journal of Affective Disorders	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0

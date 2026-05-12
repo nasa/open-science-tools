@@ -1,0 +1,56 @@
+This directory is a set of tasks to classify the most relevant division for 
+a pubication based on its title and journal.   
+
+
+Description
+-----------
+
+Divisions for each publication were identified using a machine learning model
+that was based on a data set that had identified the original funding source for a
+set of representative publications.
+
+The data set matched publications from 2024 to the funding division through an
+internal data set of grant identification numbers and division funding. This
+included 1986 publications that were successfully matched to a single division.
+The data set was split into an independent training (80%) and testing (20%) data
+sets.
+A simple two parameter model was then built to predict the division based on the
+input title and journal name of the publication. The journal titles were each
+treated as a unique entry, and a dictionary was built with the number of divisions
+funding a publication appearing in that journal. Titles were split into individual,
+lower case words with non-alphabet characters removed. For each word, a
+dictionary was built with the number of divisions funding a publication with a title
+that uses that word. These dictionaries were then converted into distributions by
+normalizing by the total number of publications using that journal or word.
+
+Based on the journal name and title, the model would return a probability for the
+publication to be funded by each division. This would be calculated from
+multiplying the probability calculated from the journal title and the probability
+calculated from the title. After different attempts to optimize the weighting of the
+probability from the two different measurements, it was found that the best
+results were found by setting the probably to one when the journal title was only
+associated with a single division.
+
+With this model, the division of the publication was accurately predicted for 75%
+of the training data set. As divisions do have overlapping subject matter such as
+atmospheres and exoplanets, it is likely that this is close to the maximum
+accuracy that could be expected, but further study would be needed. This is
+likely sufficient classification for the purposes needed in this study that can be
+further verified by the reviewer.
+
+Programs
+--------
+
+run_publication_classifier.py: Given a title and a journal name, return the most likely division and a set of probabilities.  This requires two files to be included with the probabilities for words ('distribution_title_word.tsv')  or for journal names ('distribution_journal_name.tsv') 
+
+
+train_publication_classifier.py: A script to create the predictive model using a training data set
+test_publication_classifier.py: A script to test the predictive model using a test data set
+division_from_usa_spending.py: This is script to use the USA Spending API to determine the relevant NASA division for an award given the grant ID
+filter_data.py: Take the original data set, clean the data, and then create the test and training data sets
+
+Files
+-----
+nasa_publications_division_spending.csv: File containing infomration about publications.  The last column includes the primary division that funded the publication.
+distribution_journal_name.tsv: Given that an article has NASA funding, it is the probability that an article published in this journal has funding from a given division. 
+distribution_title_word.tsv: Given that an article has NASA funding, it is the probability that an article with this word in the title has funding from a given division. 
